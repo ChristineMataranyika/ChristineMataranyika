@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Christine Mataranyika
-- 👀 I’m interested in Data Engineering 
-- 🌱 I’m currently learning IBM Data Engineering Proffessional Certification
+- 👀 I’m interested in Data Engineering and Data Science
 - 💞️ I’m looking to collaborate on Data Engineering projects 
 - 📫 How to reach me christinecleopatra@yahoo.com 
 
